@@ -7,8 +7,8 @@ In this repository you will come across folders that contain projects displaying
 
 **About Me & My Data Journey**
 
-I am currently Intern as a Data Analyst at Yoshop Consultant. Where my work is to Create new Dashboard and analysis on Data. I had the opportunity to practice my data related skills by gathering and analyzing Data.Now I am looking for job opportunities as a Data Analyst.
-My data journey began in last year at IT VEDANT Institute in Pune. Where I completed my Master's in Business Data Analyst.
+I am currently working as an Intern Data Analyst at Yoshop Consultant. My primary work is to Create new dashboard and analysis on Data. I had the opportunity to practice my data related skills by gathering and analyzing Data.Now I am looking for job opportunities as a Data Analyst.
+My data journey began last year at IT VEDANT Institute in Pune. I completed my Master's in Business Data Analyst.
 Before that I completed my Master's in Management studies in Marketing stream.
 
 **Projects**
