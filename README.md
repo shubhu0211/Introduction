@@ -20,4 +20,21 @@ Technology : Python.
 Software used : Jupyter Notebook.
 Skills and Tools - Classes, Objects, Statements, loops.
 
+**project 2**
+**Power BI project on Global store to show sales report.**
+Software used - Power BI
+Skill and tools - Data cleaning, Data processing, Design Dashboard, Forecasting, Export
+dashboard as PDF.
+
+**Project 3**
+**Data Analyst project on Vrinda store to create annual sales report**
+Software used - WPS Office
+Skills and tools - Data cleaning, processing, Data Validation, Drop down List, Index
+Function, Vlookup, Conditional Formatting, Microsoft Excel analysis and dashboard.
+
+**Project 4**
+**classification project on Diabetes dataset**
+Software used - Jupyter Notebook
+Skills and Tools - EDA Processing, used Scikit Library, Train_Test_split library, Mode
+Building Using Linear Regression Model, Mean squared error, R_score
 
