@@ -38,3 +38,8 @@ Software used - Jupyter Notebook
 Skills and Tools - EDA Processing, used Scikit Library, Train_Test_split library, Mode
 Building Using Linear Regression Model, Mean squared error, R_score
 
+**Project 5**
+**Road Accidents analysis using SQL, To develop comprehensive analysis that can
+uncover patterns, trends, and risk factors associated with road accidents.**
+Software - MySQL
+Skills & Tools - Views, Subqueries, Functions, Constraints, clause
