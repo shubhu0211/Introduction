@@ -16,6 +16,7 @@ Before that I completed my Master's in Management studies in Marketing stream.
 **Project 1** 
 **ATM management using Python, To encompass various features, including account
 management, transaction processing, balance inquiries**
+<br>
 Technology : Python.
 Software used : Jupyter Notebook.
 Skills and Tools - Classes, Objects, Statements, loops.
