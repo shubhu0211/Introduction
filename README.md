@@ -18,35 +18,47 @@ Before that I completed my Master's in Management studies in Marketing stream.
 management, transaction processing, balance inquiries**
 <br>
 Technology : Python.
+<br>
 Software used : Jupyter Notebook.
+<br>
 Skills and Tools - Classes, Objects, Statements, loops.
 
 **Project 2**
 **Power BI project on Global store to show sales report.**
+<br>
 Software used - Power BI
+<br>
 Skill and tools - Data cleaning, Data processing, Design Dashboard, Forecasting, Export
 dashboard as PDF.
 
 **Project 3**
 **Data Analyst project on Vrinda store to create annual sales report**
+<br>
 Software used - WPS Office
+<br>
 Skills and tools - Data cleaning, processing, Data Validation, Drop down List, Index
 Function, Vlookup, Conditional Formatting, Microsoft Excel analysis and dashboard.
 
 **Project 4**
 **Machine Learning: classification project on Diabetes dataset**
+<br>
 Software used - Jupyter Notebook
+<br>
 Skills and Tools - EDA Processing, used Scikit Library, Train_Test_split library, Mode
 Building Using Linear Regression Model, Mean squared error, R_score
 
 **Project 5**
 **Road Accidents analysis using SQL, To develop comprehensive analysis that can
 uncover patterns, trends, and risk factors associated with road accidents.**
+<br>
 Software - MySQL
+<br>
 Skills & Tools - Views, Subqueries, Functions, Constraints, clause
 
 **Project 6**
 **Tableau project of Analysis on IPL dataset to provident comprehensive tournament's
 performance, player statistics, team dynamics and over all impact.**
+<br>
 Software used - Tablaeu
+<br>
 Skills and tools - Data cleaning, dynamic reports, Dashboard and story creation.
